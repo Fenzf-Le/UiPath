@@ -1,0 +1,55 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_img&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ReadPDF.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "invoiceService&Sequence_3",
+        "TotalDue&Sequence_3",
+        "DueDate&Sequence_3",
+        "InvoiceDate&Sequence_3",
+        "OrderNumber&Sequence_3",
+        "InvoiceNumber&Sequence_3",
+        "CompanyName&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ReadScrappedPDF.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "int_Count&Sequence_1",
+        "out_FailPDF&Sequence_1",
+        "dt_result&Sequence_1",
+        "out_SuccessPDF&Sequence_1",
+        "invoiceTotal&Sequence_1",
+        "customerName&Sequence_1",
+        "invoiceDate&Sequence_1",
+        "invoiceNumber&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

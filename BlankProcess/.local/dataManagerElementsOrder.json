@@ -1,0 +1,60 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Testing_ArgumentPP.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_agment",
+        "out_agment",
+        "io_agment"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Weather.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "url&Sequence_1",
+        "Edge&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "DialogueInput.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Des_Weth&Sequence_2",
+        "temp_in_F&Sequence_2",
+        "Display_weather&Flowchart_1",
+        "temp_in_int&Sequence_2",
+        "temp_in_C&Sequence_2",
+        "str_Weather&Sequence_2",
+        "str_CityName&Sequence_1",
+        "G_url&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
